@@ -1,0 +1,9 @@
+F:\C#\串口通信\PortControlDemo\bin\Debug\PortControlDemo.exe.config
+F:\C#\串口通信\PortControlDemo\bin\Debug\PortControlDemo.exe
+F:\C#\串口通信\PortControlDemo\bin\Debug\PortControlDemo.pdb
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.csprojResolveAssemblyReference.cache
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.Form1.resources
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.Properties.Resources.resources
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.csproj.GenerateResource.Cache
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.exe
+F:\C#\串口通信\PortControlDemo\obj\Debug\PortControlDemo.pdb
